@@ -11,7 +11,7 @@
   
 </pre>
 
-### `// SOFTWARE & AI WORKSHOP //`
+### `// SOFTWARE & AI DEPOT //`
 
 ![STATUS](https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-FFD000?style=for-the-badge&labelColor=171717)
 ![FUEL](https://img.shields.io/badge/FUEL-CURIOSITY-FF5C00?style=for-the-badge&labelColor=171717)
