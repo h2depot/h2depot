@@ -58,7 +58,6 @@ I enjoy looking beneath the polished surface of a technology—opening the casin
 ![React](https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=00E5FF)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚧 FEATURED PROJECT
