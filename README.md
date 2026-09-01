@@ -61,6 +61,12 @@ I enjoy looking beneath the polished surface of a technology—opening the casin
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚧 FEATURED PROJECT
+### ⌨️ TypeNap
+
+A lightweight Windows desktop app built with Tauri, React, and Rust. 🦀⚛️  
+Available on the Microsoft Store. 🪟✨
+
+🔗 [GitHub]([URL](https://github.com/h2depot/TypeNap.git)) ・ 🛍️ Microsoft Store(Coming soon...)
 
 ## 🛢 OPERATING PRINCIPLES
 
