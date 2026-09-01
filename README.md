@@ -66,7 +66,7 @@ I enjoy looking beneath the polished surface of a technology—opening the casin
 A lightweight Windows desktop app built with Tauri, React, and Rust. 🦀⚛️  
 Available on the Microsoft Store. 🪟✨
 
-🔗 [GitHub]([URL](https://github.com/h2depot/TypeNap.git)) ・ 🛍️ Microsoft Store(Coming soon...)
+🔗 [GitHub](https://github.com/h2depot/TypeNap.git) ・ 🛍️ Microsoft Store(Coming soon...)
 
 ## 🛢 OPERATING PRINCIPLES
 
