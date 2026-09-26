@@ -68,6 +68,12 @@ Available on the Microsoft Store. 🪟✨
 
 🔗 [GitHub](https://github.com/h2depot/TypeNap.git) ・ 🛍️ [Microsoft Store](https://apps.microsoft.com/detail/9ph5r4bbhjls)
 
+### 📎clipls
+A lightweight cross-platform CLI/TUI tool for browsing files and copying them directly to the system clipboard. 
+WinGet submission pending approval.
+
+🔗 [GitHub](https://github.com/h2depot/clipls.git)
+
 ## 🛢 OPERATING PRINCIPLES
 
 ```text
