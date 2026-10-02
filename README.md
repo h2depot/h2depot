@@ -70,7 +70,7 @@ Available on the Microsoft Store. 🪟✨
 
 ### 📎clipls
 A lightweight cross-platform CLI/TUI tool for browsing files and copying them directly to the system clipboard. 
-WinGet submission pending approval.
+Distributed via Windows Package Manager (winget)
 
 🔗 [GitHub](https://github.com/h2depot/clipls.git)
 
